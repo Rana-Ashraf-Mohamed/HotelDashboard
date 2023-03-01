@@ -1,2 +1,2 @@
 # HotelDashboard
-CRUD app using react and typescript.
+CRUD app using react,typescript, and firebase.
